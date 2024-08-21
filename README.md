@@ -24,7 +24,7 @@ venv\Scripts\Activate.ps1
 ```
 Now we are in our virtual environment and it's look like this
 
-![venv](images\2024-08-20_16-00-18.png)
+![venv](images/2024-08-20_16-00-18.png)
 
 3. #### Install required packages and set up our project
 ```
@@ -59,7 +59,7 @@ python app.py
 ```
 Your command line give you a choice which link to open
 
-![app.py](images\run_code.png)
+![app.py](images/run_code.png)
 
 After you open the link you can see browser and "Hello, World!". It means your code is working. Click CTRL+C to go back to venv
 But we need to run the same from the Docker container.
